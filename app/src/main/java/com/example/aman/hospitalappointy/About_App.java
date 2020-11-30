@@ -35,7 +35,7 @@ public class About_App extends AppCompatActivity {
                 .addFacebook("manishkumar.gupta.75470316")
                 .addTwitter("guptamanish0706")
                 .addInstagram("immanish____")
-                .addGitHub("07061999")
+                .addGitHub("07061999/Doctor-Appointy")
                 .addItem(getCopyRightsElement())
                 .create();
 
