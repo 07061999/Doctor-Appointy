@@ -1,4 +1,4 @@
-# Hospital Appointy
+# Doctor Appointy
 
 This is a Hospital Online Booking Appointment Application.
 
@@ -17,7 +17,7 @@ This is a Hospital Online Booking Appointment Application.
 
 * Patient can register their account with this app only.
 
-* Doctor registration will be done through the [Hospital-Appointy-Web](https://github.com/amankumar367/Hospital-Appointy-Web) & you can see web demo here [Click Here.](https://amankumar367.github.io/Hospital-Appointy-Web/)
+* Doctor registration will be done through the website.
 
 * Doctor can only login to app or web when his account approved by the Manager & same for the Manager, his account will be approved by the admin.
 
