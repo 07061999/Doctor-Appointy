@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctor-Appointy.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctor-Appointy.iml" group="Doctor-Appointy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doctor-Appointy-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doctor-Appointy-app.iml" group="Doctor-Appointy/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Hospital Appointy.iml" filepath="$PROJECT_DIR$/.idea/Hospital Appointy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hospital-Appointy-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Hospital-Appointy-Android.iml" group="Hospital-Appointy-Android" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hospital-Appointy-Android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hospital-Appointy-Android-app.iml" group="Hospital-Appointy-Android/app" />

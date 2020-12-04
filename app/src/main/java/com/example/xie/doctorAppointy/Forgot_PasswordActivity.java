@@ -1,4 +1,4 @@
-package com.example.aman.hospitalappointy;
+package com.example.xie.doctorAppointy;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;

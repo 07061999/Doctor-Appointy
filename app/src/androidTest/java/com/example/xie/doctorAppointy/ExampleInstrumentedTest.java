@@ -1,4 +1,4 @@
-package com.example.aman.hospitalappointy;
+package com.example.xie.doctorAppointy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

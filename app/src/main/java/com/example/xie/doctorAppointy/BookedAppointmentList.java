@@ -1,6 +1,4 @@
-package com.example.aman.hospitalappointy;
-
-import com.google.firebase.database.Query;
+package com.example.xie.doctorAppointy;
 
 /**
  * Created by Aman on 07-Apr-18.

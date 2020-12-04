@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.aman.hospitalappointy.Patient_RegistrationActivity">
+    tools:context="com.example.xie.doctorAppointy.Patient_RegistrationActivity">
 
     <include layout="@layout/app_bar_layout"
         android:id="@+id/register_toolbar"/>

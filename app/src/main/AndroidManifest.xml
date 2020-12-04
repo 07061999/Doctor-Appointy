@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.aman.hospitalappointy">
+    package="com.example.xie.doctorAppointy">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -12,42 +12,42 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.xie.doctorAppointy.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".LoginActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="com.example.xie.doctorAppointy.LoginActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Patient_DoctorProfileActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="com.example.xie.doctorAppointy.Patient_DoctorProfileActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Patient_RegistrationActivity"
-            android:parentActivityName=".LoginActivity"
+            android:name="com.example.xie.doctorAppointy.Patient_RegistrationActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.LoginActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Patient_BookAppointmentActivity"
-            android:parentActivityName=".Patient_DoctorProfileActivity"
+            android:name="com.example.xie.doctorAppointy.Patient_BookAppointmentActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.Patient_DoctorProfileActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Patient_ShowBookedAppointmentActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="com.example.xie.doctorAppointy.Patient_ShowBookedAppointmentActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Doctor_ProfileActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="com.example.xie.doctorAppointy.Doctor_ProfileActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Doctor_EditProfileActivity"
-            android:parentActivityName=".Doctor_ProfileActivity"
+            android:name="com.example.xie.doctorAppointy.Doctor_EditProfileActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.Doctor_ProfileActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Doctor_ShowAppointmentActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="com.example.xie.doctorAppointy.Doctor_ShowAppointmentActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="com.example.xie.doctorAppointy.SplashScreenActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -56,19 +56,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Forgot_PasswordActivity"
-            android:parentActivityName=".LoginActivity"
+            android:name="com.example.xie.doctorAppointy.Forgot_PasswordActivity"
+            android:parentActivityName="com.example.xie.doctorAppointy.LoginActivity"
             android:screenOrientation="portrait" />
 
 
-        <activity android:name=".FeedbackActivity"
+        <activity android:name="com.example.xie.doctorAppointy.FeedbackActivity"
             android:screenOrientation="portrait"/>
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name=".About_App"
+        <activity android:name="com.example.xie.doctorAppointy.About_App"
             android:screenOrientation="portrait"/>
     </application>
 

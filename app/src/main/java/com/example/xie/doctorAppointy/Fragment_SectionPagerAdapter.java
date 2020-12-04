@@ -1,4 +1,4 @@
-package com.example.aman.hospitalappointy;
+package com.example.xie.doctorAppointy;
 
 
 import android.support.v4.app.Fragment;

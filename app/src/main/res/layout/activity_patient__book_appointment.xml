@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.aman.hospitalappointy.Patient_BookAppointmentActivity">
+    tools:context="com.example.xie.doctorAppointy.Patient_BookAppointmentActivity">
 
     <include layout="@layout/app_bar_layout"
         android:id="@+id/patient_bookAppointment"/>
