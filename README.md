@@ -25,4 +25,5 @@ This is a Hospital Online Booking Appointment Application.
                
 # Demo of App
 
- <img src="https://github.com/07061999/Doctor-Appointy">
+  <img src="https://github.com/07061999/Doctor-Appointy/blob/master/Doctor-Appointy.gif">
+  
